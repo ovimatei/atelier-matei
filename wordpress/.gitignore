@@ -1,0 +1,17 @@
+# Ignore everything ecept some files
+# IMPORTANT! '/*' means to ignore everything starting from this folder.
+
+/*
+!/.gitignore
+!wp-content
+
+# ignore wp standard themes
+wp-content/themes/twenty*
+wp-content/uploads
+
+node_modules
+
+# ingore some plugins
+wp-content/plugins/akismet
+wp-content/plugins/hello.php
+
