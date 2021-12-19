@@ -1,4 +1,4 @@
-# A WordPress Theme for building website for a small business
+# A WordPress Theme for building a website for a small business
 
 ## Requirements
 
